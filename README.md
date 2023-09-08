@@ -1,5 +1,9 @@
 # CNightmare - CVE-2021-34527 POC
 
+### Warning
+
+Obviously, this exploit has long been patched, however, I have no doubt there would still be systems around that are vulnerable to this kind of attack. Therefore, under no circumstances is this exploit to be used on a system which the individual running the exploit either does not own or does not have explicit permission to do so.
+
 ### Description
 
 As the title suggests, this is a POC which exploits the infamous PrintNightmare vulnerability in Microsoft Windows Print Spooler service. At present, I have implemented the ability to run this on a remote host so technically it only exploits CVE-2021-1675. 
