@@ -1,4 +1,4 @@
-# CNightmare - CVE-2021-34527 POC
+# CNightmare - CVE-2021-1675 POC
 
 ### Warning
 
